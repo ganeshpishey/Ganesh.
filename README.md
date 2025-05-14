@@ -1,2 +1,4 @@
-# WEEK3
-MULTI-CLASS ANIMAL RECOGNITION- FINAL CODE
+# Ganesh.
+This is my first repository
+<br>
+Author- Ganesh
